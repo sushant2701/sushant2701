@@ -128,12 +128,9 @@ Interactive Business Intelligence dashboard for KPI monitoring and sales perform
 **Tech Stack:** Power BI • SQL • Excel • Python
 
 ---
+## 📊 GitHub Profile
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sushant2701&theme=tokyonight&hide_border=true)
-
----
+[![GitHub](https://img.shields.io/badge/View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushant2701)
 
 ## 🏆 Certifications
 
