@@ -1,35 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sushant Shrimal</h1>
 
-<h3 align="center">
-Aspiring Data Scientist & AI Engineer
-</h3>
+<h3 align="center">Aspiring Data Scientist & AI Engineer</h3>
 
 <p align="center">
 Transforming Data into Intelligent Solutions 🚀
 </p>
 
 <p align="center">
-Final Year B.Tech Student | Data Science | AI | Machine Learning | Analytics
+Data Science • Machine Learning • Generative AI • Data Analytics • Software Development
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🔹 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Generative AI
+🎓 Final Year B.Tech Student (Electronics & Telecommunication Engineering)
 
-🔹 Building real-world AI and Data Analytics solutions using Python, SQL, and Power BI
+📍 Pune, Maharashtra, India
 
-🔹 Interested in solving business problems through data-driven decision making
+💡 Passionate about solving real-world problems using Data Science, Artificial Intelligence, Machine Learning, and Generative AI.
 
-🔹 Currently exploring LLM Applications, Generative AI, and Predictive Analytics
+🔹 Strong foundation in Python, SQL, Data Analytics, Machine Learning, and Power BI
+
+🔹 Building AI-powered applications and data-driven solutions
+
+🔹 Exploring LLM Applications, Prompt Engineering, and Data Engineering
 
 🔹 Open to opportunities in:
 - Data Science
 - Data Analytics
 - AI Engineering
-- Machine Learning
+- Machine Learning Engineering
 - Software Development
+
+---
+
+## 🎯 Current Focus
+
+✔ Data Science
+
+✔ Machine Learning
+
+✔ Generative AI
+
+✔ LLM Applications
+
+✔ Data Analytics
+
+✔ Building Real-World AI Products
 
 ---
 
@@ -55,7 +73,7 @@ Final Year B.Tech Student | Data Science | AI | Machine Learning | Analytics
 
 ## 💻 Tech Stack
 
-### Languages & Databases
+### Programming & Databases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,21 +84,24 @@ Final Year B.Tech Student | Data Science | AI | Machine Learning | Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### Machine Learning & AI
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6E56CF?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
 
-### Tools
+### Development & Tools
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -88,9 +109,21 @@ Final Year B.Tech Student | Data Science | AI | Machine Learning | Analytics
 
 ### 🤖 GenAI-Powered Data Analysis Assistant
 
-Upload any CSV dataset and analyze it using natural language queries powered by LLMs.
+An AI-powered analytics platform that allows users to upload CSV datasets and perform advanced data analysis using natural language queries.
 
-**Tech:** Python • Streamlit • SQL • Pandas • Generative AI
+🔹 Built with Streamlit, Python, Pandas, SQL, and Large Language Models (LLMs)
+
+🔹 Converts user questions into meaningful data insights and visualizations
+
+🔹 Generates automated summaries, trend analysis, and business insights
+
+🔹 Designed using Prompt Engineering techniques to improve response accuracy
+
+🌐 Live Demo:
+
+https://gen-ai-powered-data-analysis-assistant-dgjgbhxbw6hliwhcorymc7.streamlit.app/
+
+**Tech Stack:** Python • Streamlit • Pandas • NumPy • SQL • Generative AI • LLMs • Prompt Engineering
 
 ---
 
@@ -98,31 +131,42 @@ Upload any CSV dataset and analyze it using natural language queries powered by 
 
 Machine Learning solution for healthcare analytics and disease risk prediction.
 
-**Tech:** Python • TensorFlow • Scikit-Learn • SQL
+**Tech Stack:** Python • TensorFlow • Scikit-Learn • SQL
 
 ---
 
 ### 📊 Customer Churn Prediction Dashboard
 
-Predict customer churn and visualize business insights through interactive dashboards.
+Predict customer churn and generate business insights through Machine Learning and Power BI.
 
-**Tech:** Python • Power BI • SQL • Machine Learning
+**Tech Stack:** Python • Power BI • SQL • Machine Learning
 
 ---
 
 ### 📈 Sales Analytics Dashboard
 
-Business Intelligence dashboard for KPI tracking and sales performance analysis.
+Interactive Business Intelligence dashboard for KPI monitoring and sales performance analysis.
 
-**Tech:** Power BI • SQL • Excel • Python
+**Tech Stack:** Power BI • SQL • Excel • Python
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+✅ Cisco Data Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+✅ HackerRank Python
+
+✅ Postman API Fundamentals
+
+✅ Accenture Software Engineering Simulation
+
+✅ Google Cloud Qwiklabs
+
+---
+
+## 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=sushant2701&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -132,4 +176,4 @@ To build impactful AI and Data Science solutions that help organizations make sm
 
 ---
 
-⭐ Learning • Building • Growing Every Day
+### ⭐ Learning • Building • Growing Every Day
